@@ -1,22 +1,21 @@
 
-# 💫 About Me:
+# 🩶 About Me:
 # About Me
 
-## What I Do
+## 🟥 What I Do
 - I explore data, uncover hidden patterns, and turn complex information into insights.  
 - Machine learning and deep learning are my tools, but curiosity always drives the process.
 
-## How I Work
-- Thrive in small, collaborative teams where ideas are shared freely.  
-- Like to dive into the data myself first before discussing insights.  
-- Approach problems step by step — methodical, strategic, but flexible.
+## 🔷 How I Work
+- Thrive in small, collaborative teams where ideas are shared freely.    
+- Approach problems step by step by applying mental models.
 
-## What Drives Me
+## 🟣 What Drives Me
 - Endless curiosity: from history and old books to the mysteries of the universe.  
 - Connecting dots across knowledge, stories, and experiences.  
 - Aspiring polymath: always learning, observing, and analyzing like a detective.
 
-## Fun Fact / Personal Touch
+## 🟠 Fun Fact / Personal Touch
 - Enjoy exploring people, ideas, and little mysteries in everyday life.  
 - Believe the best insights often come from paying attention to small details.
 
