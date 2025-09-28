@@ -6,8 +6,9 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/736x/af/9f/b3/af9fb38f4a0b57a50a849a5d931b072d.jpg" 
-       alt="Dark Academia Header" width="80%" style="border-radius: 14px; box-shadow: 0 4px 15px #0006;">
+       alt="Dark Academia Header" width="70%">
 </p>
+
 
 <h1 align="center">🌸 aashy7metamorph 🌸</h1>
 <p align="center">
