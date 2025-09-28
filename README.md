@@ -6,8 +6,9 @@
 <!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/736x/af/9f/b3/af9fb38f4a0b57a50a849a5d931b072d.jpg" 
-       alt="Dark Academia Header" width="70%">
+       alt="Dark Academia Header" width="45%" style="border-radius: 14px; box-shadow: 0 4px 15px #0006;">
 </p>
+
 
 
 <h1 align="center">🌸 aashy7metamorph 🌸</h1>
@@ -22,7 +23,7 @@
 
 💻 **Ayesha** — Data Scientist | Knowledge Detective | Writer of hidden truths  
 ✨ Languages: **Python • R • SQL**  
-🎓 Specialties: Statistical Modeling • Machine Learning • Inference  
+🎓 Specialties: Statistical Modeling • Machine Learning • casual Inference & bayesian ML 
 
 ---
 
@@ -84,23 +85,25 @@
 <details>
 <summary>📅 My Journey</summary>
 
-| Year | Milestone |
-|------|-----------|
-| 2020 | Learned R & SQL |
-| 2021 | Built first ML model |
-| 2022 | First Medium article |
-| 2023 | Launched <code>urban-mobility-sql</code> |
-| 2024 | Mastering statistical inference |
+| Phase | Milestones |
+|-------|------------|
+| 🌱 **Foundations** | Built strong intuition in math:<br>• *Linear Algebra* by **Gilbert Strang** (with data applications)<br>• *Essence of Calculus* by **3Blue1Brown** + lectures by **Eddie Woo**<br>• *Introduction to Probability and Statistics (18.05)* — **MIT OpenCourseWare**<br>✨ Aha moment: realized math isn’t formulas — it’s patterns of change and structure. |
+| 📊 **Applied Statistical Learning** | • *Introduction to Statistical Learning (ISLR)* by **Gareth James et al.**<br>• *Python for Data Analysis* by **Wes McKinney** (Exploratory Data Analysis)<br>💻 First notebooks: analyzing mobility & public datasets<br> |
+| 🤖 **Machine Learning** | • *Machine Learning (CS229)* by **Andrew Ng**, Stanford<br>• Implemented algorithms from scratch in Python<br>• Built first classification & regression projects<br>📜 Earned Coursera certificate (Andrew Ng’s ML)<br>⚡ Learned the value of testing models *beyond accuracy*. |
+| 🧠 **Deep Learning** | • *Pattern Recognition and Machine Learning* by **Christopher Bishop**<br>• *Deep Learning for Coders* — **fast.ai** by Jeremy Howard<br>• Built image classifiers & small NLP demos<br>🖥️ Shared code on GitHub → early portfolio pieces<br>🎶 Inspired by Jeremy’s “learning in public” approach. |
+| 🧭 **Exploration** | Currently exploring:<br>• How statistical inference can make deep learning more trustworthy<br>• Niche areas where ML meets social impact (mobility, accessibility)<br>✍️ Writing weekly reflections to sharpen focus<br>🎯 Goal: blend **rigor + application** into a sustainable niche. |
 </details>
+
 
 <details>
 <summary>🌸 Fun Details</summary>
 
-- 🖋️ Journalizing  
-- ☕ Coffee 
-- ✨ Hidden talent: Spotting rare patterns in life  
-- 📚 Book: *Weapons of Maths Destruction* by Cathy O'Neil  
+- 🖋️ Love **journaling** reflections & ideas  
+- ☕ Fueled by **coffee & curiosity**  
+- ✨ Hidden talent: spotting **rare patterns** in life & data  
+- 📚 Currently reading: *Weapons of Math Destruction* — Cathy O'Neil  
 </details>
+
 
 ---
 
